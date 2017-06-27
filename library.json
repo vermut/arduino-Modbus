@@ -1,0 +1,24 @@
+{
+  "name": "Modbus",
+  "keywords": "modbus, slave, rs485",
+  "description": "Modbus Library for Arduino (base)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vermut/arduino-Modbus.git"
+  },
+  "authors": [
+    {
+      "name": "André Sarmento Barbosa",
+      "url": "http://www.andresarmento.com"
+    },
+    {
+      "name": "Pavels Veretennikovs",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/andresarmento/modbus-arduino"
+}
